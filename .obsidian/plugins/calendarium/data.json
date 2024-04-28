@@ -1,0 +1,301 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Calendar Solesticea",
+      "description": "",
+      "id": "ID_3af97b99faa8",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Durged'in",
+            "id": "ID_782b6b696828",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Rurikovend",
+            "id": "ID_ab2a0b7afba8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Aureliday",
+            "id": "ID_f8b9b949a939",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Alcudragrim",
+            "id": "ID_1a8b49abd8aa",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "malmir",
+            "id": "ID_ea9a0abae8a8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "KhazârDurzag",
+            "id": "ID_48ab6adb9a39",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Malkhut'ur Vakoth",
+            "id": "ID_3bf969581bdb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "vorakday",
+            "id": "ID_ea1a7b89bb3b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Durged'in Norni",
+            "id": "ID_98d98a49eb89",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Kragakalt",
+            "type": "month",
+            "length": 31,
+            "id": "ID_c98aab88794a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "blàth ùr",
+            "type": "month",
+            "length": 29,
+            "id": "ID_cb5b684abad8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "lómetano",
+            "type": "month",
+            "length": 31,
+            "id": "ID_59ca18ea6a6a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "mortifernis",
+            "type": "month",
+            "length": 29,
+            "id": "ID_3b7ae82929e8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "helmis",
+            "type": "month",
+            "length": 31,
+            "id": "ID_d8a9db68bac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Yávir azâr-dum",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2a888b9a280a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "mîlêdhel",
+            "type": "month",
+            "length": 19,
+            "id": "ID_5a68896bc878",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Menfrugum",
+            "type": "month",
+            "length": 31,
+            "id": "ID_080b788aabaa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Inutilis",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2abacbe9eac9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ghashashk",
+            "type": "month",
+            "length": 29,
+            "id": "ID_8a78485acb5a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Xalvurra",
+            "type": "month",
+            "length": 31,
+            "id": "ID_e989180888c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Likörmond",
+            "type": "month",
+            "length": 29,
+            "id": "ID_5bf9686938e9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Oronáre Tyelca",
+            "type": "month",
+            "length": 31,
+            "id": "ID_e84a4a49e828",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Dwárvmuk Thunor",
+            "type": "month",
+            "length": 29,
+            "id": "ID_eb89685b9938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "incihiem",
+            "type": "month",
+            "length": 31,
+            "id": "ID_fb3b592aa8f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Khazadum Dumbar",
+            "type": "month",
+            "length": 29,
+            "id": "ID_c95868997809",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Krovavanya",
+            "cycle": 8,
+            "offset": 0,
+            "faceColor": "#8f0a0a",
+            "shadowColor": "#000000",
+            "id": "ID_a83b1a398a49"
+          },
+          {
+            "name": "Luna Lupina Noctis",
+            "cycle": 26,
+            "offset": 0,
+            "faceColor": "#fedf60",
+            "shadowColor": "#000000",
+            "id": "ID_b8593a980928"
+          },
+          {
+            "name": "Lóme Várielya",
+            "cycle": 4,
+            "offset": 0,
+            "faceColor": "#ebe8c4",
+            "shadowColor": "#292b4a",
+            "id": "ID_a8f8e838f8a8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "inclita victoria",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 1
+              }
+            ],
+            "timespan": 6,
+            "intercalary": false,
+            "numbered": true,
+            "after": 1,
+            "offset": 0,
+            "id": "ID_7abb3bebe8ba"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_9a0a183b98bb",
+            "restart": false,
+            "event": false,
+            "name": "era of Tharagundum",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 23316,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ]
+      },
+      "current": {
+        "day": 23,
+        "month": 7,
+        "year": 23316
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_3af97b99faa8",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 12,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": true,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}
