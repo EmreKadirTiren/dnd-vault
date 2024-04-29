@@ -1,32 +1,18 @@
 {
   "main": {
-    "id": "5338b209f1e63770",
+    "id": "24d01af1d59e5de9",
     "type": "split",
     "children": [
       {
-        "id": "27d989aef1df9ed7",
+        "id": "ce562c88f0f0082e",
         "type": "tabs",
         "children": [
           {
-            "id": "9052723b7375e8c1",
+            "id": "a78343e905e57896",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -35,20 +21,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "798e1fd08c659d7a",
+    "id": "ebf15ff9c8281fe1",
     "type": "split",
     "children": [
       {
-        "id": "eaf7164bbd58fd25",
+        "id": "7d66c720fa7e9668",
         "type": "tabs",
         "children": [
           {
-            "id": "d64cdc097c2b74f6",
+            "id": "8e21034b553bc86a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f1eac0e9c4235dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Category/Individual",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,79 +54,56 @@
             }
           },
           {
-            "id": "42c2a5798566fdf3",
+            "id": "9f30def8759a407f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "db15d11d89d1e4f5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "179df63047f86531",
+    "id": "3a234b4e888f9f38",
     "type": "split",
     "children": [
       {
-        "id": "952d9146a7c9e6f7",
+        "id": "42b48e7da532841a",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd896ce5cd93616",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f5526a88d205df82",
+            "id": "26630c6dc66a8bbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "95b010a490c6bf5f",
+            "id": "c38df5198a088cd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a2b42190597a767",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,164 +114,78 @@
             }
           },
           {
-            "id": "b4f132997ad3e031",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3af97b99faa8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 23,
-                    "month": 7,
-                    "year": 23316
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
-          },
-          {
-            "id": "60f18bd18b3fa49d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f0281f29bd69f249",
+            "id": "a4ae94a765df13d6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
-            }
-          },
-          {
-            "id": "71a278f61213734d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
-            }
-          },
-          {
-            "id": "14763583f99dbce0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "03a109ddd60af299",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3af97b99faa8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 23,
-                    "month": 7,
-                    "year": 23316
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 525.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "helpmate:HelpMate": false,
-      "homepage:Open homepage": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "quick-plugin-switcher:Quick Plugin Switcher": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "canvas:Create new canvas": false,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9052723b7375e8c1",
+  "active": "a78343e905e57896",
   "lastOpenFiles": [
-    "1. Session Journals/Sol Sessies/Sol 6.md",
-    "1. Session Journals/Sol Sessies/Sol 5.md",
-    "index.md",
-    "2. Session Journals/Solesticea Campaign (Sol)/Sol Sessies/Sol 3.md",
-    "2. Session Journals/Solesticea Campaign (Sol)/Sol Sessies/Sol 4.md",
-    "2. Session Journals/Solesticea Campaign (Sol)/Sol Sessies/Sol 5.md",
-    "2. Session Journals/Solesticea Campaign (Sol)/Solesticea Campaign (Sol).md",
-    "1. The Way of the Worlds/World/Mels's DM Wereld/Solistisea/Plekken/Plekken.md",
-    "1. The Party/1. The Party.md",
-    "0. Scratch Notes/0. Scratch Notes.md",
-    "1. The Party/The Whispers/Sid.md",
-    "1. The Party/The Whispers/Dan.md",
-    "1. The Party/The Whispers/Arsan.md",
-    "1. The Party/The Whispers/Flappie.md",
-    "z_Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Example.md",
-    "Checklist.md",
-    "1. The Party/The Whispers/The Whispers.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "Vragen.md",
-    "2. Mechanics/Events/Solesticea-Events/Birthday Snip.md",
-    "2. Mechanics/Non-Player Characters/Non-Player Characters.md",
-    "2. Mechanics/Events/Solesticea-Events",
-    "2. Mechanics/Events",
-    "2. Mechanics/Players/Nick.md",
-    "codeblock 1300.md",
-    "Archive/Other/Quartz.md",
-    "z_Templates/2_Mechanics Gallery/2_Mechanics Gallery.md",
-    "z_Templates/1_Story World Templates/Other/Template - Titled Position.md",
-    "test.txt",
+    "z_Attachments/Solesticea_map.png",
+    "z_Attachments/Solesticea-20240319133731428.webp",
+    "z_Attachments/PC-Papers.jpeg",
+    "z_Attachments/Home-20240310191413153.webp",
+    "z_Attachments/Home-20240310191306841.webp",
     "z_Attachments/Eldernax-20240321200811086.webp",
     "z_Attachments/Dorian-20240319152045811.webp",
-    "z_Attachments/Solesticea-20240319133731428.webp",
-    "z_Attachments/Arsan-20240312091835165.webp",
-    "z_Attachments/Dan-20240310222702113.webp",
-    "z_Attachments/PC-Papers.jpeg",
     "z_Attachments/Dan-Solesticea 1.pdf",
-    "z_Attachments/Home-20240310191306841.webp",
-    "1. The Way of the Worlds/World/Mels's DM Wereld/Solistisea/Steden",
-    "Archive/Other",
-    "2. Mechanics/Monsters",
-    "2. Mechanics/Guilds and Groups/Solesticea",
-    "1. The Way of the Worlds/Modules/Dragons of Icespire Peak",
-    "1. The Way of the Worlds/Modules/Dragons of Stormwreck Isle",
-    "0. Scratch Notes/MoMP/Ministery of'Monster Protection Idea Canvas.canvas",
-    "z_Attachments/Home-20240310191413153.webp",
-    "z_Attachments/Solesticea_map.png",
-    "icons/zipper.svg",
-    "DM/Voorbereidend campaign/Ministery of'Monster Protection Idea Canvas.canvas",
-    "Untitled 1.canvas",
-    "D&Dnotes/Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas"
+    "z_Attachments/Dan-20240406212821226.webp",
+    "z_Attachments/Dan-20240310222702113.webp",
+    "z_Attachments/Crestfall-20240331213811742.webp",
+    "z_Attachments/Arsan-20240312091835165.webp",
+    "z_Attachments",
+    "4. Forgotten History/Dragons of Stormwreck Isle.md",
+    "4. Forgotten History/Dragons of Icespire Peak.md",
+    "4. Forgotten History",
+    "3. Mood Boards/Ministery of'Monster Protection Idea Canvas.canvas",
+    "3. Mood Boards",
+    "2.Mels's DM Wereld/Solistisea/Steden/Stormhaffen.md",
+    "2.Mels's DM Wereld/Solistisea/Steden/Regelheim.md",
+    "2.Mels's DM Wereld/Solistisea/Steden/Crestfall.md",
+    "2.Mels's DM Wereld/Solistisea/Plekken/New Tekstdocument.txt",
+    "2.Mels's DM Wereld/Solistisea/Plekken/Drunk Tard.md",
+    "2.Mels's DM Wereld/Solistisea/Plekken/De grot van de BBC.md",
+    "2.Mels's DM Wereld/Solistisea/Plekken/Auction House.md",
+    "2.Mels's DM Wereld/Solistisea/Plekken/Bos van Crestfall.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Quinten.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Players.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Olivier.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Nick.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Mels.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Emre.md",
+    "2.Mels's DM Wereld/Solistisea/Players/Anna.md",
+    "2.Mels's DM Wereld/Solistisea/Planes/Astral Plane.md",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters/Uniform Keeper Isabel.md",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters/Snip.md",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters/Sebastian.md",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters/Non-Player Characters.md",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters/Dorian.md",
+    "2.Mels's DM Wereld/Solistisea/Guilds and Groups/Guilds and Groups.md",
+    "2.Mels's DM Wereld/Solistisea/Guilds and Groups/Eldernax.md",
+    "2.Mels's DM Wereld/Solistisea/Guilds and Groups/Crimson Whispers.md",
+    "2.Mels's DM Wereld/Solistisea/Steden",
+    "2.Mels's DM Wereld/Solistisea/Plekken",
+    "2.Mels's DM Wereld/Solistisea/Players",
+    "2.Mels's DM Wereld/Solistisea/Planes",
+    "2.Mels's DM Wereld/Solistisea/Non-Player Characters"
   ]
 }
