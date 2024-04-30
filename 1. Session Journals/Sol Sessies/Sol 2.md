@@ -15,13 +15,13 @@ Session: "2"
 ---
 ## Characters + Tips
  
-**[[Arsan]]gespeeld door [[Anna]]**: Wees alert tijdens gevechten en maak gebruik van je vaardigheden om jezelf en je medespelers te beschermen, maar vergeet niet om ook te luisteren naar de strategieën van je teamgenoten om zo effectief mogelijk te zijn in gevechten. Buiten gevechten, wees bedachtzaam in je interacties met NPC's en overweeg de langetermijndoelen van je personage bij het nemen van beslissingen.
+**[[Arsan]] gespeeld door [[Anna]]**: Wees alert tijdens gevechten en maak gebruik van je vaardigheden om jezelf en je medespelers te beschermen, maar vergeet niet om ook te luisteren naar de strategieën van je teamgenoten om zo effectief mogelijk te zijn in gevechten. Buiten gevechten, wees bedachtzaam in je interacties met NPC's en overweeg de langetermijndoelen van je personage bij het nemen van beslissingen.
   
-**[[Flappie]]gespeeld door [[Olivier]]**: Jouw creativiteit en spontaniteit kunnen van onschatbare waarde zijn tijdens het avontuur, maar wees ook bewust van de mogelijke consequenties van je acties. Blijf communiceren met je medespelers en wees bereid om samen te werken om uitdagingen te overwinnen en doelen te bereiken.
+**[[Flappie]] gespeeld door [[Olivier]]**: Jouw creativiteit en spontaniteit kunnen van onschatbare waarde zijn tijdens het avontuur, maar wees ook bewust van de mogelijke consequenties van je acties. Blijf communiceren met je medespelers en wees bereid om samen te werken om uitdagingen te overwinnen en doelen te bereiken.
 
-**[[Sid]]gespeeld door [[Quinten]]**: Als je terugkeert in het spel, gebruik deze ervaring als een leermoment en probeer je personage te ontwikkelen door middel van de gebeurtenissen die hebben plaatsgevonden. Misschien is het tijd om de fouten van het verleden recht te zetten en een nieuwe koers te varen binnen het avontuur.
+**[[Sid]] gespeeld door [[Quinten]]**: Als je terugkeert in het spel, gebruik deze ervaring als een leermoment en probeer je personage te ontwikkelen door middel van de gebeurtenissen die hebben plaatsgevonden. Misschien is het tijd om de fouten van het verleden recht te zetten en een nieuwe koers te varen binnen het avontuur.
 
-**[[Dan]]gespeeld door [[Emre]]**: Als jonge advocaat binnen het team, maak gebruik van je kennis en expertise om juridische kwesties op te lossen en strategisch te onderhandelen. Maar wees ook bereid om te leren van de ervaringen van je medespelers en flexibel te zijn in je benadering van uitdagingen binnen het spel.
+**[[Dan]] gespeeld door [[Emre]]**: Als jonge advocaat binnen het team, maak gebruik van je kennis en expertise om juridische kwesties op te lossen en strategisch te onderhandelen. Maar wees ook bereid om te leren van de ervaringen van je medespelers en flexibel te zijn in je benadering van uitdagingen binnen het spel.
  
 ## Session Overview 
  
